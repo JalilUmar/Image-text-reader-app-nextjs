@@ -62,7 +62,7 @@ const ImageUploader = () => {
   return (
     <main className=" border-2 border-solid border-gray-300 rounded-lg grid mx-auto w-[100%] h-[90vh]  px-8">
       <p className="font-[700] text-[34px] text-[#afafaf] flex items-center justify-center my-3">
-        Vision Chatbot
+        Image Text Recognition Chatbot
       </p>
       <div className="grid items-center space-x-2 p-4  ">
         <section className="mb-auto pb-[20px] pr-4 max-h-[850px] h-[600px] overflow-y-auto custom-scrollbar ">
